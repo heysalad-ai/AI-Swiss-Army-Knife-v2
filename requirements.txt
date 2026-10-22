@@ -215,7 +215,7 @@ patsy==1.0.1
 pendulum==3.0.0
 pexpect==4.9.0
 phik==0.12.4
-pillow==11.0.0
+pillow==13.0.0
 pins==0.8.6
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1726613481435/work
 plotly==5.24.1
