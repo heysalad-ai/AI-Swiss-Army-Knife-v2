@@ -312,7 +312,7 @@ uritemplate==3.0.1
 urllib3==1.26.20
 uvicorn==0.32.0
 uvloop==0.21.0
-virtualenv==20.27.1
+virtualenv==21.14.13
 visions==0.7.5
 watchfiles==0.24.0
 wcwidth==0.2.13
