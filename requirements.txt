@@ -172,7 +172,7 @@ mdit-py-plugins==0.4.2
 mdurl==0.1.2
 memray==1.14.0
 menuinst @ file:///home/conda/feedstock_root/build_artifacts/menuinst_1731146967497/work
-mistune==3.0.2
+mistune==3.3.3
 more-itertools==10.5.0
 msgpack==1.1.0
 multidict==6.1.0
